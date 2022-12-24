@@ -28,7 +28,6 @@
     <div class="row">
         <img src="images/flowchart.JPG" style="padding-left: 20%;" alt="">
     </div>
-    
     <h1 style="text-align: center;">TRANSMITER SIDE </h1>
     <br>
     <div class="row">
