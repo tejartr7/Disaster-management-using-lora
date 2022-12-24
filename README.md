@@ -23,13 +23,12 @@
     <br>
     <h1 style="text-align: center;" >How to get started with heltec lora esp32 <a href="https://docs.heltec.org/en/node/esp32/quick_start.html" target="_blank" style="font-size: 2rem; ">Click here</a></h1>
     <br>
-    
-    <br>
     <h1 style="text-align: center;">FLOWCHART</h1>
     <BR></BR>
     <div class="row">
         <img src="images/flowchart.JPG" style="padding-left: 20%;" alt="">
     </div>
+    
     <h1 style="text-align: center;">TRANSMITER SIDE </h1>
     <br>
     <div class="row">
